@@ -1,0 +1,10 @@
+artifact_location: file:///content/cdsbootcamp/mlruns/268445493735951375/models/m-babf6a279ae04092955c9a686ac59a43/artifacts
+creation_timestamp: 1790076766843
+experiment_id: '268445493735951375'
+last_updated_timestamp: 1790076768711
+model_id: m-babf6a279ae04092955c9a686ac59a43
+model_type: null
+name: model
+source_run_id: 7193c70906d54c518f818e03e78adfcf
+status: 3
+status_message: null

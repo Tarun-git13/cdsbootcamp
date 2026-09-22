@@ -1,0 +1,14 @@
+artifact_uri: file:///content/cdsbootcamp/mlruns/268445493735951375/44d004a88875485c89121f8566e338c3/artifacts
+end_time: 1790076263562
+entry_point_name: ''
+experiment_id: '268445493735951375'
+lifecycle_stage: active
+run_id: 44d004a88875485c89121f8566e338c3
+run_name: final_dnn_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790076263541
+status: 4
+tags: []
+user_id: root
